@@ -29,11 +29,12 @@ The CNN model architecture is as follows:
 ## Requirements
 Ensure you have the following dependencies installed:
 
-Python 3.x
-TensorFlow
-Keras
-NumPy
-Pandas
-Matplotlib
+1. Python 3.x
+2. TensorFlow
+3. Keras
+4. NumPy
+5. Pandas
+6. Matplotlib
+
 You can install the required packages using pip:
 ``` pip install tensorflow keras numpy pandas matplotlib ```
