@@ -9,9 +9,9 @@ The dataset consists of two parts:
 
 1. **Training Data**: Input images and corresponding labels (dogs or cats) used to train the model.
 2. **Testing Data**: Input images and corresponding labels for evaluating the performance of the trained model.
-
-The images are stored in the 'Dataset' directory, with separate CSV files for input data and labels.
+   
 Dataset Used: https://bit.ly/ImgClsKeras
+
 ## Model Architecture
 
 The CNN model architecture is as follows:
