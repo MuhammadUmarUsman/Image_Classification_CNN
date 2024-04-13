@@ -5,14 +5,13 @@
 This repository contains a convolutional neural network (CNN) model trained to classify images as either dogs or cats. The model is built using TensorFlow and Keras libraries. It takes images as input and predicts whether the image contains a dog or a cat.
 
 ## Dataset
-Dataset Used: https://bit.ly/ImgClsKeras.
 The dataset consists of two parts:
 
 1. **Training Data**: Input images and corresponding labels (dogs or cats) used to train the model.
 2. **Testing Data**: Input images and corresponding labels for evaluating the performance of the trained model.
 
 The images are stored in the 'Dataset' directory, with separate CSV files for input data and labels.
-
+Dataset Used: https://bit.ly/ImgClsKeras
 ## Model Architecture
 
 The CNN model architecture is as follows:
